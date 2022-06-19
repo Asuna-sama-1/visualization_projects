@@ -7,3 +7,7 @@ This is an analysis of the Global Greenhouse Gas(GHG) emissions from the electri
 ### Prep
 
 This project acquired skills to clean, combine data using join and union, shape and pivot the data using Tableau Prep. Tableau Prep is an ETL (Extract Transport Load) tool that allows us to extract data from different locations, transform and then generate output in. hyper and .csv formats.
+
+
+
+Tableau Public: https://public.tableau.com/views/GreenhouseGasEmissionDashboard/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
